@@ -27,8 +27,8 @@ divisas:
   - La usuaria puede introducir una cantidad en una determina moneda,
     y la aplicación le ofrecerá su contravalor en otra moneda distinta.
 	
-  - La usuaria puede seleccionar una o varias monedas _de destino_
-    para la conversión.
+  - La usuaria puede seleccionar y/o tener configuradas una o varias
+    monedas _de destino_ para la conversión.
 	
   - La conversión se realizará utilizando un servicio como
     [https://free.currencyconverterapi.com/](currencyconverterapi.com/).
@@ -76,18 +76,6 @@ divisas:
         usando
         [_Mermaid_](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
 		
-  4. Implementar la aplicación siguiendo el diseño de la interface y
-     el diseño software creados anteriormente.
-	 
-	   - El lenguaje de programación es python.
-	   
-	   - La librería gráfica es GTK, preferiblemente versión 4.
-	   
-	   - La estructura de módulos debe facilitar en lo posible el
-         seguimiento del diseño sw. Se recomienda que, al menos, los
-         componentes _vista_ y _estado/modelo_ esten en módulos o
-         paquetes separados.
-	   
 
 ### :books: Objetivos de aprendizaje:
 
@@ -115,7 +103,7 @@ divisas:
 > web, android, ios, etc. Pero la práctica consiste en el desarrollo
 > de una aplicación para dispositivos móviles. Tenéis que cercioraros
 > de que la aplicación efectivamente funciona como se espera en
-> android o/y ios. La defensa de la práctica también se realizará
+> android y/o ios. La defensa de la práctica también se realizará
 > ejecutando la aplicación en alguna de dichas plataformas.
 
 > :warning: El desarrollo software es iterativo. Durante esta tarea
@@ -146,10 +134,10 @@ divisas:
 ### :wrench: Esta tarea tiene las siguientes partes:
 
   1. Siguiendo la documentación de diseño, implementar tests _end to
-     _end_ para los distintos caso de uso de la aplicación.
+     end_ para los distintos caso de uso de la aplicación.
 	 
-	 - Los tests deben cubrir los errores de E/S y los errores de la
-       usuaria.
+  2. Implementar tests para las situaciones en que ocurren errores de
+       E/S y errores de la usuaria.
 	 
 	 
 ### :books: Objetivos de aprendizaje:
