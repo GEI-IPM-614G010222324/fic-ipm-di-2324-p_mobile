@@ -10,7 +10,7 @@
   interfaces gráficas, concurrencia con funciones asíncronas,
   _software testing_ a traves de la interface gráfica.
 
-- **What you'll build**: Construireis una aplicación para dispositivos
+- **What you'll build**: Construiréis una aplicación para dispositivos
   móviles.
 
 - **Prerequisites**: Asumimos que os resultan familiares el lenguaje
@@ -152,7 +152,7 @@ divisas:
 
 _Congratulations friend, you've completed this assignment!_
 
-Una vez terminada la práctica no olvideis revisar el contenido del
+Una vez terminada la práctica no olvidéis revisar el contenido del
 repositorio en Github y comprobar su correcto funcionamiento antes de
 realizar la defensa.
 
