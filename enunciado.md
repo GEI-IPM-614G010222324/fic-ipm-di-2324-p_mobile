@@ -8,7 +8,7 @@
   paradigma quasi-declarativo, diseño e implementación de interfaces
   adaptativas, patrones arquitectónicos para el manejo del estado con
   interfaces gráficas, concurrencia con funciones asíncronas,
-  _software testing_ a traves de la interface gráfica.
+  _software testing_ a través de la interfaz gráfica.
 
 - **What you'll build**: Construiréis una aplicación para dispositivos
   móviles.
@@ -35,14 +35,14 @@ divisas:
 
 
 <details id=1>
-<summary><h2>Tarea 1: Diseño de la interface</h2></summary>
+<summary><h2>Tarea 1: Diseño de la interfaz</h2></summary>
 
 ### :wrench: Esta tarea tiene las siguientes partes:
 
   1. Identifica y documenta los casos de uso relevantes para las
      potenciales usuarias de la aplicación.
   
-  2. Realizar un diseño de la interface de usuaria de la aplicación y
+  2. Realizar un diseño de la interfaz de usuaria de la aplicación y
      añadir el diseño a este repositorio en un fichero _PDF_ con el
      nombre `diseño-iu.pdf`. El diseño tiene que ajustarse a las
      siguientes pautas:
@@ -63,7 +63,7 @@ divisas:
 	 
   3. Realizar un diseño software siguiendo el patrón seleccionado.
   
-	  - El diseño tiene que cubir los casos de uso de la aplicación.
+	  - El diseño tiene que cubrir los casos de uso de la aplicación.
 	  
 	  - El diseño se realiza usando el lenguaje _UML_ y debe incluir
         diagramas tanto para la parte estática como para la dinámica.
@@ -72,7 +72,7 @@ divisas:
         `diseño_sw.md` de este repositorio. El formato del fichero es
         la versión de _markdown_ [Github Flavored
         Markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). Los
-        diagramas UML se integran directamente en el fichero markdow
+        diagramas UML se integran directamente en el fichero markdown
         usando
         [_Mermaid_](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
 		
@@ -95,6 +95,10 @@ divisas:
   
      - La implementación debe realizarse usando _flutter_.
 
+  2. [Opcional] Implementar la lógica de persistencia necesaria para
+     guardar la configuración de la usuaria. Dicha configuración puede
+     incluir cosas como la lista de divisas habituales.
+	 
 > :warning: Es muy importante capturar todo tipo de errores, en
 > especial los relacionados con las operaciones de E/S e informar a la
 > usuaria en todo momento.
@@ -108,7 +112,7 @@ divisas:
 
 > :warning: El desarrollo software es iterativo. Durante esta tarea
 > pueden ser necesarios cambios tanto en el diseño sw como en el
-> diseño de la interface. Es importante actualizar los documentos de
+> diseño de la interfaz. Es importante actualizar los documentos de
 > diseño afectados. También es importante que la modificación de los
 > diseños se incluyan junto con el código relacionado en el mismo
 > _commit_.
@@ -118,7 +122,7 @@ divisas:
 
   - Uso de librerías para construir IGUs.
   
-  - Progamación dirigida por eventos
+  - Programación dirigida por eventos
 
   - Uso de la concurrencia con funciones asíncronas.
   
@@ -142,7 +146,7 @@ divisas:
 	 
 ### :books: Objetivos de aprendizaje:
 
-  - Tests end to end a través de la interface gráfica.
+  - Tests end to end a través de la interfaz gráfica.
 
 </details>
 
