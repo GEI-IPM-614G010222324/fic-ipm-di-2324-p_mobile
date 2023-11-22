@@ -7,7 +7,7 @@ de IPM_
 
 
 La práctica consiste en el desarrollo de una aplicación para
-disposiivos móviles con su _interface gráfica_.
+dispositivos móviles con su _interface gráfica_.
 
 Este repositorio contiene:
 
@@ -31,11 +31,11 @@ Este repositorio contiene:
 ## Pasos para realizar la práctica
 
 1. Si estás leyendo este _README_ es porque has creado el repositorio
-   correspondiente desde el enlace de _github classroom_. Asegurate de
+   correspondiente desde el enlace de _github classroom_. Asegúrate de
    ello.
 	 
 2. Asignar los roles a cada miembro del equipo. La información
-   relativa a los roles se ecuentra en el fichero [roles.md](roles.md).
+   relativa a los roles se encuentra en el fichero [roles.md](roles.md).
    
 3. Cubrir el apartado "Miembros del equipo" siguiendo el formato
    establecido.
@@ -62,5 +62,5 @@ Este repositorio contiene:
 
 13. Revisar el contenido del repositorio en github.
 
-14. Presentar la práctica ya finializada.
+14. Presentar la práctica ya finalizada.
  
